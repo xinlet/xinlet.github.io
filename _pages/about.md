@@ -24,9 +24,9 @@ Interest
 ======
 * Music
   * I practised playing the piano for 6 years
-  * I am a fan of rock music
+  * I'm a fan of rock music
 * Photography
-  * Some of my photos are uploaded on my Instagram
+  * Some of my photos are uploaded on Instagram
 * Gym
   * Working out every day is important
 
