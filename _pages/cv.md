@@ -31,9 +31,5 @@ Tutoring
   * Probability and Statistics. University of Bath, UK, 2023.
   * Sample Survey. The George Washington University, USA, 2021.
 
-  Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
