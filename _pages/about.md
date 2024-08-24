@@ -13,6 +13,22 @@ My topic is the development of low-rank pre-smoothing sparse statistical modelli
 
 Supervisors: Dr. Sandipan Roy and Professor Matt Nunes.
 
-Areas of interest: Low-rank; Pre-smoothing; Multivariate regression; Time series analysis.
+Research Interest
+======
+* Low-rank modelling
+* Pre-smoothing method
+* Multivariate regression
+* Time series analysis
+
+Interest
+======
+* Music
+  * I practised playing the piano for 6 years
+  * I am a fan of rock music
+* Photography
+  * Some of my photos are uploaded on my Instagram
+* Gym
+  * Working out every day is important
+
 
 
