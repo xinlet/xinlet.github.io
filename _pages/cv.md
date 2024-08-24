@@ -17,8 +17,12 @@ Education
 
 Skills
 ======
-* R
-* Python
+* Programming Languages:
+  * R, Python, Matlab, SAS
+* Developer Tools/Platforms:
+  * RStudio, Overleaf/Latex, Github
+* Languages:
+  * English, Chinese (Mandarin)
 
 Publications
 ======
