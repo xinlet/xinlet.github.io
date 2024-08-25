@@ -9,15 +9,18 @@ author_profile: true
 
 2024
 ======
-* Collaboration with BeZero Carbon
-   * Evaluating Wild Fire Risk via Random Forest
+* Integrative Think Tanks (ITT), University of Bath, Bath, UK
+  * Collaboration with [BeZero Carbon](https://bezerocarbon.com/)
+  * Evaluating Wild Fire Risk via Random Forest
 
-* Collaboration with CameraForensic
-   * Analysing Camera Sensor Pattern via Wavelet Dimension Reduction
+* Integrative Think Tanks (ITT), University of Bath, Bath, UK
+  * Collaboration with [CameraForensics](https://www.cameraforensics.com/)
+  * Analysing Camera Sensor Pattern via Wavelet Dimension Reduction
 
 2023
 ======
-* Collaboration with Syngenta
+* Integrative Think Tanks (ITT), University of Bath, Bath, UK
+  * Collaboration with [Syngenta](https://www.syngenta.co.uk/)
   * Borrowing Strength via Low-rank Matrix Implementation
  
 
