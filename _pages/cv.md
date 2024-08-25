@@ -29,7 +29,7 @@ Tutoring
 ======
   * Data Analysis for Business. University of Bath, UK, 2024
   * Probability and Statistics. University of Bath, UK, 2023
-  * Sample Survey. The George Washington University, USA, 2021
+  * Sample Survey. George Washington University, USA, 2021
 
 Award
 ======
