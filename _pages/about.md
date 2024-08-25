@@ -26,7 +26,7 @@ Interest
   * I practised playing the piano for 6 years
   * I'm a fan of rock music
 * Photography
-  * Some of my photos are uploaded on Instagram
+  * Some of my photos are uploaded on [Instagram](https://www.instagram.com/shinlay_xt/)
 * Gym
   * Working out every day is important
 
