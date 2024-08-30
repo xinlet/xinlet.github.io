@@ -31,7 +31,7 @@ Tutoring
   * Probability and Statistics. University of Bath, UK, 2023
   * Sample Survey. George Washington University, USA, 2021
 
-Award
+Awards
 ======
 * Outstanding International Student Award, University of British Columbia, Canada
 
