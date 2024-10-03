@@ -9,6 +9,9 @@ author_profile: true
 
 2024
 ======
+* Internship Research Scientist, CameraForensics, Bristol, UK
+  * Analysing Camera Sensor Pattern via Wavelet Transformation
+
 * Integrative Think Tanks (ITT), University of Bath, Bath, UK
   * Collaboration with [BeZero Carbon](https://bezerocarbon.com/)
   * Evaluating Wild Fire Risk via Random Forest
