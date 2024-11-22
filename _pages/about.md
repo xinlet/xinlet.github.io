@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student in Statistics at the Department of Mathematical Sciences, University of Bath.
 
-My topic is the development of low-rank pre-smoothing sparse statistical modelling. 
+My topic is Sparse Statistical Models for High-Dimensional Data.
 
 Supervisors: Dr. Sandipan Roy and Professor Matt Nunes.
 
