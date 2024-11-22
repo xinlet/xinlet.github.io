@@ -15,6 +15,11 @@ Education
 * 2019-2021 M.Sc. in Statistics, George Washington University, Washington D.C., USA
 * 2015-2019 B.Sc. in Mathematics, University of British Columbia, Vancouver, Canada
 
+Work Experience
+======
+* Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
+  * Analysing Camera Sensor Pattern via Wavelet Transformation
+    
 Skills
 ======
 * Programming Languages:
@@ -24,7 +29,6 @@ Skills
 * Languages:
   * English, Chinese (Mandarin)
 
-  
 Tutoring
 ======
   * Data Analysis for Business. University of Bath, UK, 2024
