@@ -14,3 +14,6 @@ author_profile: true
 * Department Statistics Seminar. University of Bath, Bath, UK.
 * Department Statistics Seminar. Queen Mary University of London, London, UK.
 
+2022
+======
+* HDTS 2022 Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series. Maastricht University, Maastricht, Netherlands.
