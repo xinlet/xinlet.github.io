@@ -19,15 +19,6 @@ Work Experience
 ======
 * Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
   * Analysing Camera Sensor Pattern via Wavelet Transformation
-    
-Skills
-======
-* Programming Languages:
-  * R, Python, Matlab, SAS
-* Developer Tools/Platforms:
-  * RStudio, Overleaf/Latex, Github
-* Languages:
-  * English, Chinese (Mandarin)
 
 Tutoring
 ======
@@ -39,6 +30,15 @@ Awards
 ======
 * Outstanding International Student Award, University of British Columbia, Canada
 
+Skills
+======
+* Programming Languages:
+  * R, Python, Matlab, SAS
+* Developer Tools/Platforms:
+  * RStudio, Overleaf/Latex, Github
+* Languages:
+  * English, Chinese (Mandarin)
+  
 Members
 ======
 * American Statistical Association (ASA) Member
