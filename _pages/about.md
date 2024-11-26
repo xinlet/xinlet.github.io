@@ -18,6 +18,7 @@ Research Interest
 * Low-rank modelling
 * Pre-smoothing method
 * Multivariate regression
+* High-dimensional method
 * Time series analysis
 
 Interest
