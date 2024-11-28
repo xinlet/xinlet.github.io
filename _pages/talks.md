@@ -11,7 +11,7 @@ author_profile: true
 ======
 * [SAMBa Summer Conference](https://people.bath.ac.uk/cb2605/SAMBaConf.html). University of Bath, Bath, UK.
 * [International Symposium on Nonparametric Statistics (ISNPS 2024)](https://w3.math.uminho.pt/ISNPS2024/). Braga, Portugal.
-* Department Statistics Seminar. University of Bath, Bath, UK.
+* [Department Statistics Seminar](https://people.bath.ac.uk/cr777/seminar.html). University of Bath, Bath, UK.
 * Department Statistics Seminar. Queen Mary University of London, London, UK.
 
 2022
