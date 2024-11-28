@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
-  * Analysing Camera Sensor Pattern via Wavelet Transformation
+  * Analysing Camera Sensor Pattern
 
 Tutoring
 ======
