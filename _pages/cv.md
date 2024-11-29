@@ -19,14 +19,14 @@ Education
 
 Work Experience
 ======
-* 2024  Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
+* 2024 &nbsp; Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
   * Analysing Camera Sensor Pattern
 
 Tutoring
 ======
-  * 2024  Data Analysis for Business. University of Bath, UK
-  * 2023  Probability and Statistics. University of Bath, UK
-  * 2021  Sample Survey. George Washington University, USA
+  * 2024 &nbsp; Data Analysis for Business. University of Bath, UK
+  * 2023 &nbsp; Probability and Statistics. University of Bath, UK
+  * 2021 &nbsp; Sample Survey. George Washington University, USA
 
 Awards
 ======
