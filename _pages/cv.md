@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* `2021-2025 (expected)`   Ph.D in Statistics, University of Bath, Bath, UK
-* `2019-2021           `   M.Sc. in Statistics, George Washington University, Washington D.C., USA
-* `2015-2019           `   B.Sc. in Mathematics, University of British Columbia, Vancouver, Canada
+* 2021-2025 &nbsp; Ph.D in Statistics, University of Bath, Bath, UK
+* 2019-2021 &nbsp; M.Sc. in Statistics, George Washington University, Washington D.C., USA
+* 2015-2019 &nbsp; B.Sc. in Mathematics, University of British Columbia, Vancouver, Canada
 
 
 
 Work Experience
 ======
-* `2024`  Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
+* 2024  Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
   * Analysing Camera Sensor Pattern
 
 Tutoring
 ======
-  * `2024`  Data Analysis for Business. University of Bath, UK
-  * `2023`  Probability and Statistics. University of Bath, UK
-  * `2021`  Sample Survey. George Washington University, USA
+  * 2024  Data Analysis for Business. University of Bath, UK
+  * 2023  Probability and Statistics. University of Bath, UK
+  * 2021  Sample Survey. George Washington University, USA
 
 Awards
 ======
