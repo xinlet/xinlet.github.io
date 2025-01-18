@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Xinle Tian, Alex Gibberd, Matthew Nunes, Sandipan Roy (2024). Multi-response Linear Regression Estimation Based on Low-rank Pre-smoothing. *Preprint*.
+* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. *arXiv preprint*.
   
-* Xinle Tian, Jiapeng He, and Yueming Shi (2020). Statistical Dependence Test with Hilbert-Schmidt Independence Criterion. *Journal of Physics: Conference Series*. Vol. 1601. No. 3.
+* Tian, X., He, J., & Shi, Y. (2020). Statistical dependence test with Hilbert-Schmidt independence criterion. *Journal of Physics: Conference Series* (Vol. 1601, No. 3, p. 032008).
 
 
