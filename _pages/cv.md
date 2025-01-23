@@ -24,6 +24,7 @@ Work Experience
 
 Tutoring
 ======
+  * 2025 &nbsp; Introduction to Data Science, University of Bath, UK
   * 2024 &nbsp; Data Analysis for Business, University of Bath, UK
   * 2023 &nbsp; Probability and Statistics, University of Bath, UK
   * 2021 &nbsp; Sample Survey, George Washington University, USA
