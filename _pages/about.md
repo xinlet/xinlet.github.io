@@ -24,7 +24,6 @@ Interest
 ======
 * Music
 * Photography
-  * Some of my photos are uploaded on [Instagram](https://www.instagram.com/shinlay_xt/)
 * Gym
   * Working out every day is important
 
