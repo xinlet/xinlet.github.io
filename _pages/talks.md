@@ -16,4 +16,4 @@ author_profile: true
 
 2022
 ======
-* HDTS 2022 Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series. Maastricht University, Maastricht, Netherlands
+* HDTS 2022 Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series, Maastricht University, Maastricht, Netherlands
