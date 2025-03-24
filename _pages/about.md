@@ -18,7 +18,7 @@ Research Interest
 * Low-rank modelling
 * Pre-smoothing method
 * High-dimensional statistics
-* Signal Processing
+* Image Processing
 
 Interest
 ======
