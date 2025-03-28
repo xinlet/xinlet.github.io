@@ -9,14 +9,14 @@ author_profile: true
 
 2024
 ======
-* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at SAMBa Summer Conference, University of Bath, Bath, UK.[(link)](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
-* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at International Symposium on Nonparametric Statistics (ISNPS), Braga, Portugal. [(link)]((https://w3.math.uminho.pt/ISNPS2024/))
-* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at Department Statistics Seminar, University of Bath, Bath, UK. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
-* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at Department Statistics Seminar, Queen Mary University of London, London, UK.[(link)](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
+* Tian, X. (Presenter), Gibberd, A., Nunes, M., & Roy, S. Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at SAMBa Summer Conference, University of Bath, Bath, UK.[(link)](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
+* Tian, X. (Presenter), Gibberd, A., Nunes, M., & Roy, S. Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at International Symposium on Nonparametric Statistics (ISNPS), Braga, Portugal. [(link)]((https://w3.math.uminho.pt/ISNPS2024/))
+* Tian, X. (Presenter), Gibberd, A., Nunes, M., & Roy, S. Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at Department Statistics Seminar, University of Bath, Bath, UK. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
+* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (Presenter) Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at Department Statistics Seminar, Queen Mary University of London, London, UK.[(link)](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
   
 2023
 ======
-* Chan, T. S. T., Tian, X., Zheng, K., & Gibberd, A. (2023), Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMstatistics, Berlin, Germany.[(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
+* Chan, T. S. T., Tian, X., Zheng, K., & Gibberd, A. (Presenter)Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMstatistics, Berlin, Germany.[(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
 
 2022
 ======
