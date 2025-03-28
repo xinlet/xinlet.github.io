@@ -16,7 +16,7 @@ author_profile: true
   
 2023
 ======
-* Chan, T. T., Tian, X., Zheng, K., \& Gibberd, A. (2023), Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMstatistics, Berlin, Germany.[(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
+* Chan, T. S. T., Tian, X., Zheng, K., & Gibberd, A. (2023), Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMstatistics, Berlin, Germany.[(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
 
 2022
 ======
