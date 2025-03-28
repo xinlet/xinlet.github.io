@@ -21,14 +21,16 @@ Work Experience
 ======
 * 2024 &nbsp; Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
   * Analysing Camera Sensor Pattern
+* 2023-2025 &nbsp; Graduate Teaching Assistant, University of Bath, Bath, UK
+* 2021 &nbsp; Teaching Assistant, George Washington University, D.C., USA
 
 Tutoring
 ======
-  * 2025 &nbsp; Royal Institution Masterclass Supervisor, University of Bath, UK
-  * 2025 &nbsp; Introduction to Data Science, University of Bath, UK
-  * 2024 &nbsp; Data Analysis for Business, University of Bath, UK
-  * 2023 &nbsp; Probability and Statistics, University of Bath, UK
-  * 2021 &nbsp; Sample Survey, George Washington University, USA
+* 2025 &nbsp; Royal Institution Masterclass Supervisor, University of Bath, UK
+* 2025 &nbsp; Introduction to Data Science, University of Bath, UK
+* 2024 &nbsp; Data Analysis for Business, University of Bath, UK
+* 2023 &nbsp; Probability and Statistics, University of Bath, UK
+* 2021 &nbsp; Sample Survey, George Washington University, USA
 
 Awards
 ======
