@@ -16,9 +16,9 @@ Supervisors: [Dr. Sandipan Roy](https://roysandipan.github.io/) and [Professor M
 Research Interest
 ======
 * Low-rank modelling
-* Pre-smoothing method
+* Sparse Modelling
 * High-dimensional statistics
-* Image Processing
+* Applications, including public health, image processing
 
 Interest
 ======
