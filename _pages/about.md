@@ -18,7 +18,7 @@ Research Interest
 * Low-rank modelling
 * Sparse modelling
 * High-dimensional statistics
-* Applications, including public health, image processing
+* Applications, including public health, neuroscience, image processing
 
 Interest
 ======
