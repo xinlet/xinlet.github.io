@@ -10,7 +10,7 @@ author_profile: true
 
 * Gibberd, A., Tian, X. & Chan, T. S. T. (2025). Group sparse dynamic factor models for fMRI. *In Progress*.
 
-* Tian, X., Nunes, M., Dupont, E., & Downing, S. (2025). A wavelet domain fast camera sensor fingerprint identification method. *In Progress*.
+* Tian, X., Nunes, M., Dupont, E., & Downing, S. (2025). A frequency domain fast camera sensor fingerprint identification method. *In Progress*.
 
 * Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2025). Low-rank pre-smoothing for high-dimensional multi-output regression. *In Progress*.
 
