@@ -16,7 +16,7 @@ Supervisors: [Dr. Sandipan Roy](https://roysandipan.github.io/) and [Professor M
 Research Interest
 ======
 * Low-rank modelling
-* Sparse Modelling
+* Sparse modelling
 * High-dimensional statistics
 * Applications, including public health, image processing
 
