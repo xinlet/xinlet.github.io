@@ -9,6 +9,8 @@ author_profile: true
 
 2024
 ======
+* Tian, X., Gibberd, A., Nunes, M., & Roy, S.* Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at Department of
+Mathematics and Statistics, University of Reading, Reading, UK. [(link)](https://www.reading.ac.uk/maths-and-stats/seminars-and-events/seminars%20and%20colloquia)
 * Tian, X., Gibberd, A., Nunes, M., & Roy, S.* Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at CMStatistics, London, UK. [(link)](https://www.cmstatistics.org/CFECMStatistics2024/index.php)
 * Tian, X.*, Gibberd, A., Nunes, M., & Roy, S. Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at SAMBa Summer Conference, University of Bath, Bath, UK. [(link)](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
 * Tian, X.*, Gibberd, A., Nunes, M., & Roy, S. Multi-response linear regression estimation based on low-rank pre-smoothing. Presented at International Symposium on Nonparametric Statistics (ISNPS), Braga, Portugal. [(link)](https://w3.math.uminho.pt/ISNPS2024/)
