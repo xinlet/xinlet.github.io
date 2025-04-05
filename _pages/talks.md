@@ -23,7 +23,3 @@ Mathematics and Statistics, University of Reading, Reading, UK. [(link)](https:/
 2023
 ======
 * Chan, T. S. T., Tian, X., Zheng, K., & Gibberd, A.* Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMStatistics, Berlin, Germany. [(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
-
-2022
-======
-* HDTS 2022 Workshop on Dimensionality Reduction and Inference in High-Dimensional Time Series, Maastricht University, Maastricht, Netherlands
