@@ -36,6 +36,7 @@ author_profile: true
   [52.955028180927144, -1.1553010969961675, "Nottingham, UK"],   
   [55.8642, -4.2518, "Glasgow, UK"],
   [51.7507, -1.2580, "Oxford, UK"],
+  [52.62901549787241, 1.2995397492799585, "Norwich, UK"],
   [52.1949, 0.1330, "Cambridge, UK"],
   [41.15727108920829, -8.626760871139524, "Porto, Portugal"],
   [41.545468852024115, -8.426184776233601, "Braga, Portugal"],
@@ -46,7 +47,9 @@ author_profile: true
   [40.7128, -74.0060, "New York, USA"],
   [41.8760, -87.6336, "Chicago, USA"],
   [49.2827, -123.1207, "Vancouver, Canada"],
-  [31.2304, 121.4737, "Shanghai, China"]
+  [31.2304, 121.4737, "Shanghai, China"],
+  [22.324060634176035, 114.17371834319583, "Hongkong, China"],
+  [22.547833044249305, 114.04735874974526, "Shenzhen, China"]
 ];
 
     const pinIcon = L.icon({
