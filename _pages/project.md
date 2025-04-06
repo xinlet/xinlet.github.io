@@ -31,6 +31,9 @@ author_profile: true
     const locations = [
   [51.5074, -0.1278, "London, UK"],
   [51.4545, -2.5879, "Bristol, UK"],
+  [51.3780, -2.3580, "Bath, UK"],
+  [52.4795103752684, -1.8879851605385491, "Birmingham, UK"],
+  [52.955028180927144, -1.1553010969961675, "Nottingham, UK"],   
   [55.8642, -4.2518, "Glasgow, UK"],
   [51.7507, -1.2580, "Oxford, UK"],
   [52.1949, 0.1330, "Cambridge, UK"],
