@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Travelling Map"
+title: "The places that I've visited"
 permalink: /map/
 author_profile: true
 ---
 
 {% include base_path %}
-The places that I've visited
+
 <html>
 <head>
   <title>My Travel Map</title>
