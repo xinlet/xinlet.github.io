@@ -25,13 +25,14 @@ author_profile: true
     const map = L.map('map', {
   worldCopyJump: false,
   maxBoundsViscosity: 1.0,
-  maxBounds: [[-85, -180], [85, 180]]
+  maxBounds: [[20, -80], [60, 50]],
+  minZoom: 2
 }).setView([30, 0], 2);
 
-
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+  attribution: '&copy; OpenStreetMap contributors',
+  noWrap: true
+}).addTo(map);
 
     const locations = [
   [51.50609700613507, -0.13100357699231469, "London, UK"],
