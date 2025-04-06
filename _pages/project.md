@@ -32,8 +32,11 @@ author_profile: true
   [51.5074, -0.1278, "London, UK"],
   [51.4545, -2.5879, "Bristol, UK"],
   [55.8642, -4.2518, "Glasgow, UK"],
+  [51.7507, -1.2580, "Oxford, UK"],
+  [52.1949, 0.1330, "Cambridge, UK"],
   [38.9072, -77.0369, "Washington, D.C., USA"],
   [40.7128, -74.0060, "New York, USA"],
+  [41.8760, -87.6336, "Chicago, USA"]
   [49.2827, -123.1207, "Vancouver, Canada"],
   [31.2304, 121.4737, "Shanghai, China"]
 ];
