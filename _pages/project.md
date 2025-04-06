@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-<!DOCTYPE html>
+The places that I've visited
 <html>
 <head>
   <title>My Travel Map</title>
@@ -30,20 +29,14 @@ author_profile: true
     }).addTo(map);
 
     const locations = [
-      [5.6037, -0.1870, "Accra, Ghana"],
-      [6.5244, 3.3792, "Lagos, Nigeria"],
-      [9.0579, 7.4951, "Abuja, Nigeria"],
-      [13.5128, 2.1120, "Niamey, Niger"],
-      [12.6392, -8.0029, "Bamako, Mali"],
-      [14.6928, -17.4467, "Dakar, Senegal"],
-      [8.4657, -13.2317, "Freetown, Sierra Leone"],
-      [6.3156, -10.8074, "Monrovia, Liberia"],
-      [30.0444, 31.2357, "Cairo, Egypt"],
-      [33.3128, 44.3615, "Baghdad, Iraq"],
-      [25.276987, 55.296249, "Dubai, UAE"],
-      [19.0760, 72.8777, "Mumbai, India"],
-      [28.6139, 77.2090, "New Delhi, India"]
-    ];
+  [51.5074, -0.1278, "London, UK"],
+  [51.4545, -2.5879, "Bristol, UK"],
+  [55.8642, -4.2518, "Glasgow, UK"],
+  [38.9072, -77.0369, "Washington, D.C., USA"],
+  [40.7128, -74.0060, "New York, USA"],
+  [49.2827, -123.1207, "Vancouver, Canada"],
+  [31.2304, 121.4737, "Shanghai, China"]
+];
 
     const pinIcon = L.icon({
       iconUrl: 'https://cdn-icons-png.flaticon.com/512/684/684908.png',
