@@ -27,7 +27,7 @@ author_profile: true
   maxBoundsViscosity: 1.0,
   maxBounds: [[20, -80], [60, 50]],
   minZoom: 2
-}).setView([30, 0], 2);
+}).setView([54, -2], 4);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors',
