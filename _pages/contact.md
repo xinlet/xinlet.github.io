@@ -7,7 +7,7 @@ author_profile: true
 
 Email
 ======
-* xt373 (at) bath (dot) ac (dot) uk
+xt373 (at) bath.ac.uk
 
 Address
 ======
