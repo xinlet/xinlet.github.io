@@ -22,7 +22,12 @@ author_profile: true
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
-    const map = L.map('map').setView([10, 10], 3);
+    const map = L.map('map', {
+  worldCopyJump: false,
+  maxBoundsViscosity: 1.0,
+  maxBounds: [[-85, -180], [85, 180]]
+}).setView([30, 0], 2);
+
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
