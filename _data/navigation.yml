@@ -14,6 +14,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Map"
+    url: /map/
+    
   - title: "Contact"
     url: /contact/
     
