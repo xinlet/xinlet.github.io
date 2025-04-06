@@ -24,8 +24,6 @@ author_profile: true
   <script>
     const map = L.map('map', {
   worldCopyJump: false,
-  maxBoundsViscosity: 1.0,
-  maxBounds: [[20, -80], [60, 50]],
   minZoom: 2
 }).setView([54, -2], 4);
 
