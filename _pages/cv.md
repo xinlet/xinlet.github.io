@@ -39,7 +39,7 @@ Awards
 Skills
 ======
 * Programming Languages:
-  * R, Python, Matlab, SAS
+  * R, Python, SAS
 * Developer Tools/Platforms:
   * RStudio, Overleaf/Latex, Github
 * Languages:
