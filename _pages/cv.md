@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 2021-2025(expected) &nbsp; Ph.D in Statistics, University of Bath, Bath, UK
-* 2019-2021 &nbsp; M.Sc. in Statistics, George Washington University, Washington D.C., USA
-* 2015-2019 &nbsp; B.Sc. in Mathematics, University of British Columbia, Vancouver, Canada
+* 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
+* 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
 
 
 
