@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Current Position
+======
 I'm a PhD student in Statistics at the Department of Mathematical Sciences, University of Bath.
 
 My topic is Sparse Statistical Models for High-Dimensional Data.
