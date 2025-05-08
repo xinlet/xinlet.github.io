@@ -18,7 +18,7 @@ Supervisors: [Dr. Sandipan Roy](https://roysandipan.github.io/) and [Professor M
 Research Interest
 ======
 * High-dimensional statistics
-* Applied Statistics
+* Applied statistics
 * Applications, including public health, neuroscience, and image processing
 
 Interest
