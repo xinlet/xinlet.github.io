@@ -13,7 +13,7 @@ I'm a PhD student in Statistics at the Department of Mathematical Sciences, Univ
 
 My topic is Sparse Statistical Models for High-Dimensional Data.
 
-Supervisors: [Dr. Sandipan Roy](https://roysandipan.github.io/) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
+Supervisors: [Dr. Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
 
 Research Interest
 ======
