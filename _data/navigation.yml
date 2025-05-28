@@ -13,7 +13,10 @@ main:
   
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Collaborator"
+    url: /collaborator/
+    
   - title: "Map"
     url: /map/
     
