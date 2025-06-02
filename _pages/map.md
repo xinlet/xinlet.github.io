@@ -27,7 +27,7 @@ author_profile: true
   minZoom: 2
 }).setView([54, -2], 4);
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap & Carto',
   subdomains: 'abcd',
   maxZoom: 19,
