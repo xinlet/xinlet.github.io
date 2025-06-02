@@ -27,10 +27,12 @@ author_profile: true
   minZoom: 2
 }).setView([54, -2], 4);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '&copy; OpenStreetMap contributors',
-  noWrap: true
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap & Carto',
+  subdomains: 'abcd',
+  maxZoom: 19
 }).addTo(map);
+
 
     const locations = [
   [51.50609700613507, -0.13100357699231469, "London, UK"],
