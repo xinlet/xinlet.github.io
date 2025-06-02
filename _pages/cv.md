@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2021-2025(expected) &nbsp; Ph.D in Statistics, University of Bath, Bath, UK
+* 2021-2025(expected) &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
 * 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
 * 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
 
@@ -47,7 +47,7 @@ Skills
   
 Members
 ======
-* American Statistical Association (ASA) Member
-* Institute of Mathematical Statistics (IMS) Member
+* American Statistical Association (ASA)
+* Institute of Mathematical Statistics (IMS)
 * Golden Key International Honour Society, George Washington University
   
