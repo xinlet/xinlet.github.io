@@ -30,7 +30,8 @@ author_profile: true
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '&copy; OpenStreetMap & Carto',
   subdomains: 'abcd',
-  maxZoom: 19
+  maxZoom: 19,
+  noWrap: true //
 }).addTo(map);
 
 
