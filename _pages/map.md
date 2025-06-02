@@ -31,7 +31,7 @@ author_profile: true
   attribution: '&copy; OpenStreetMap & Carto',
   subdomains: 'abcd',
   maxZoom: 19,
-  noWrap: true //
+  noWrap: true 
 }).addTo(map);
 
 
