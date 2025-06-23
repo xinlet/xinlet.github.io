@@ -14,7 +14,7 @@ author_profile: true
 
 * Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2025). A low-rank pre-smoothed vector autoregressive model for neurological applications. *In Progress*.
 
-* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). A Frequency Domain Fast Camera Sensor Fingerprint Identification Method. *ArXiv Preprint*.
+* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). On the Efficiency of Wavelet Domain PRNU Fingerprint Extraction. *ArXiv Preprint*.
 
 * Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response Linear Regression Estimation based on Low-rank Pre-smoothing. *ArXiv Preprint*.
   
