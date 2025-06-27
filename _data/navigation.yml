@@ -8,11 +8,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Conferences & Talks"
-    url: /talks/   
-  
   - title: "Publications"
     url: /publications/
+    
+  - title: "Conferences & Talks"
+    url: /talks/   
     
   - title: "Collaborator"
     url: /collaborator/
