@@ -23,3 +23,14 @@ author_profile: true
 2023
 ======
 * Chan, T. S. T., Tian, X., Zheng, K., & Gibberd, A.* Exploring dynamic factors of fMRI activity in the presence of sparse loadings. Presented at CMStatistics, Berlin, Germany. [(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
+
+
+Multi-response linear regression estimation based on low-rank pre-smoothing
+====
+
+
+Exploring dynamic factors of fMRI activity in the presence of sparse loadings
+====
+* *Presented by:* Alex Gibberd; *Co-authors:* Tak-Shing Chan, Xinle Tian, Kai Zheng
+* *Presented at:* CMStatistics, Berlin, Germany. [(link)](https://www.cmstatistics.org/CMStatistics2023/programme.php)
+
