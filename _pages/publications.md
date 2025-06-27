@@ -10,11 +10,11 @@ author_profile: true
 
 * Gibberd, A., Tian, X. & Chan, T. S. T. (2025). Group sparse dynamic factor models for fMRI. *In Progress*.
 
-* Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2025). A low-rank pre-smoothed vector autoregressive model for neurological applications. *In Progress*.
-
 * Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2025). Low-rank pre-smoothing for high-dimensional multi-output regression. *In Progress*.
 
-* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). On the efficiency of wavelet domain PRNU fingerprint extraction. *ArXiv Preprint*.
+* Tian, X., Gibberd, A., Nunes, M. & Roy, S. (2025). A low-rank pre-smoothed vector autoregressive model for neurological applications. *In Progress*.
+
+* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). Using wavelet domain fingerprints to improve source camera identification *ArXiv Preprint*.
 
 * Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2024). Multi-response linear regression estimation based on low-rank pre-smoothing. *ArXiv Preprint*.
   
