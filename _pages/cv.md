@@ -11,11 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2021-2025(expected) &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
+* 2021-2025 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
 * 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
 * 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
-
-
 
 Work Experience
 ======
@@ -32,10 +30,6 @@ Tutoring
 * 2023 &nbsp; Probability and Statistics, University of Bath, UK
 * 2020 &nbsp; Sample Survey, George Washington University, USA
 
-Awards
-======
-* Outstanding International Student Award, University of British Columbia, Canada
-
 Skills
 ======
 * Programming Languages:
@@ -44,7 +38,11 @@ Skills
   * RStudio, Anaconda, Overleaf/Latex, Github
 * Languages:
   * English, Chinese (Mandarin)
-  
+
+Awards
+======
+* Outstanding International Student Award, University of British Columbia, Canada
+
 Members
 ======
 * American Statistical Association (ASA)
