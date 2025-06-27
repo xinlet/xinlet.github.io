@@ -23,6 +23,9 @@ Academia
 
 Industry
 ====
+* [Bezero Carbon](https://bezerocarbon.com/)
 * [CameraForensics](https://www.cameraforensics.com/)
+* [Syngenta](https://www.syngenta.co.uk/)
+  
 
 
