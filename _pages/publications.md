@@ -10,7 +10,7 @@ author_profile: true
 
 * Gibberd, A., Tian, X. & Chan, T. S. T. (2025). Group sparse dynamic factor models for fMRI. *In Progress*.
 
-* Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2025). Low-rank pre-smoothing for high-dimensional multi-output regression. *In Progress*.
+* Gibberd, A., Tian, X., Roy, S. & Nunes, M. (2025). Low-rank pre-smoothing for high-dimensional multi-output regression. *In Progress*.
 
 * Tian, X., Gibberd, A., Nunes, M. & Roy, S. (2025). A low-rank pre-smoothed vector autoregressive model for neurological applications. *In Progress*.
 
