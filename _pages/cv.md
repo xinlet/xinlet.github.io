@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * 2024 &nbsp; Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
-  * Analysing Camera Sensor Pattern
+  * Analysing Camera Sensor Pattern & Source Camera Identification
 * 2023-2025 &nbsp; Graduate Teaching Assistant, University of Bath, Bath, UK
 * 2021 &nbsp; Teaching Assistant, George Washington University, Washington D.C., USA
 
