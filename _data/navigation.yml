@@ -17,8 +17,8 @@ main:
   - title: "Collaborator"
     url: /collaborator/
     
-  - title: "Map"
-    url: /map/
+  #- title: "Map"
+  #  url: /map/
     
   - title: "Contact"
     url: /contact/
