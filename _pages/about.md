@@ -20,6 +20,7 @@ Research Interest
 * High-dimensional statistics
 * Applied statistics
 * Applications, including public health, neuroscience, and image processing
+* Biostatistics
 
 Interest
 ======
