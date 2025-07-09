@@ -17,7 +17,7 @@ Academia
 * [Emiko Dupont](https://researchportal.bath.ac.uk/en/persons/emiko-dupont)
 * [Alex Gibberd](https://sites.google.com/view/gibberd/)
 * [Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
-* [Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy)
+* [Sandipan Roy](https://sites.google.com/view/sandipanroy)
 
 
 
