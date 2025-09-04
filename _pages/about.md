@@ -19,15 +19,14 @@ Research Interest
 ======
 * High-dimensional statistics
 * Applied statistics
-* Applications, including public health, neuroscience, and image processing
 * Biostatistics
+* Applications, including public health, neuroscience, and image processing
+
 
 Interest
 ======
-* Music
 * Photography
-* Gym
-  * Working out every day is important
-
+* Fitness training
+* Music
 
 
