@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Large multi-response linear regression estimation based on low-rank pre-smoothing
+* *Presented by:* Xinle Tian; *Co-authors:* Alex Gibberd, Matt Nunes, Sandipan Roy
+* *Presented at:* Numerical Analysis and Data Science Seminar, Department of Mathematical Sciences, University of Bath, Bath, UK, 2025. [(link)](https://bath-numerical-analysis.github.io/events/current_seminars.html)
+
+  
 ## Multi-response linear regression estimation based on low-rank pre-smoothing
 
 * *Presented by:* Sandipan Roy; *Co-authors:* Xinle Tian, Alex Gibberd, Matt Nunes
