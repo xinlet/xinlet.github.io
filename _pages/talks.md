@@ -35,7 +35,7 @@ author_profile: true
 ----
 
 * *Presented by:* Xinle Tian; *Co-authors:* Alex Gibberd, Matt Nunes, Sandipan Roy
-* *Presented at:* Department of Mathematical Sciences, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
+* *Presented at:* Statistics Seminar, Department of Mathematical Sciences, University of Bath, Bath, UK, 2024. [(link)](https://people.bath.ac.uk/cr777/seminar.html)
   
 ----
 
