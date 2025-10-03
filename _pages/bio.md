@@ -35,7 +35,7 @@ Skills
 * Programming Languages:
   * R, Python, SAS
 * Developer Tools/Platforms:
-  * RStudio, Anaconda, Overleaf/Latex, Github
+  * RStudio, Jupyter, Overleaf/Latex, Github
 * Languages:
   * English, Chinese (Mandarin)
 
