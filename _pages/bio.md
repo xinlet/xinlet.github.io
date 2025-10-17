@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * 2021-2025 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
+  * Supervisors: [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
 * 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
 * 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
 
