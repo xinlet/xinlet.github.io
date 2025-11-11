@@ -11,7 +11,7 @@ Current Position
 ======
 I'm a PhD student in Statistics at the Department of Mathematical Sciences, University of Bath.
 
-Thesis Topic: Sparse Statistical Models for High-Dimensional Data.
+Thesis Topic: Sparse Statistical Models for High-Dimensional Data
 
 Supervisors: [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
 
