@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Pre-smoothing as a tool for predicting fMRI ROI data
+* *Presented by:* Alex Gibberd; *Co-authors:* Xinle Tian, Sandipan Roy, Matt Nunes
+* *Presented at:* Lancaster University, Lancaster, UK, 2025.
+
 ## Large multi-response linear regression estimation based on low-rank pre-smoothing
 * *Presented by:* Xinle Tian; *Co-authors:* Alex Gibberd, Matt Nunes, Sandipan Roy
 * *Presented at:* Numerical Analysis and Data Science Seminar, University of Bath, Bath, UK, 2025. [(link)](https://bath-numerical-analysis.github.io/categories/2025/seminar_10_01)
