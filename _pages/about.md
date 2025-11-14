@@ -15,6 +15,8 @@ Thesis Topic: Sparse Statistical Models for High-Dimensional Data
 
 Supervisors: [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
 
+I am open to a wide range of academic collaborations and would be glad to explore potential opportunities.
+
 Research Interest
 ======
 * High-dimensional statistics
@@ -22,11 +24,12 @@ Research Interest
 * Biostatistics
 * Applications, including public health, neuroscience, and image processing
 
-
 Interest
 ======
 * Photography
 * Fitness training
 * Music
+
+
 
 
