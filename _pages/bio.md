@@ -46,7 +46,6 @@ Awards
 
 Members
 ======
-* American Statistical Association (ASA)
 * Institute of Mathematical Statistics (IMS)
 * Golden Key International Honour Society, George Washington University
   
