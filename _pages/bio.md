@@ -14,7 +14,7 @@ Education
   * Thesis topic: Sparse Statistical Models for High-Dimensional Data
 * 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
 * 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
-
+  
 Work Experience
 ======
 * 2026-Present &nbsp; Principal Biostatistician, [Novartis](https://www.novartis.com/), London, UK
