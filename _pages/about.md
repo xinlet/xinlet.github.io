@@ -12,7 +12,9 @@ Current Position
 
 I am currently a principal biostatistician at Novartis. 
 
-I completed my PhD at University of Bath, where my research focused on sparse statistical models for high-dimensional data, under the supervision of [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
+I completed my PhD at University of Bath, where my research focused on sparse statistical models for high-dimensional data.
+
+I was under the supervision of [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).
 
 I am open to a wide range of academic collaborations and would be glad to explore potential opportunities.
 
