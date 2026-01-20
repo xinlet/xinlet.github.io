@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+(You can pronounce it as "Shin-Lee")
+
 Current Position
 ======
 
