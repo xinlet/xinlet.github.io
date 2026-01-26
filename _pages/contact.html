@@ -1,0 +1,78 @@
+---
+layout: archive
+title: ""
+permalink: /contact/
+author_profile: true
+---
+
+
+<style>
+.contact-wrap{
+  max-width: 820px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+.contact-label{
+  display:block;
+  font-weight:700;
+  margin:1.25rem 0 .5rem;
+  font-size:1.1rem;
+}
+.contact-input,
+.contact-textarea{
+  width:100%;
+  padding:1.1rem 1rem;
+  border:2px solid #f2c94c;
+  border-radius:6px;
+  background:#fbf7ef;
+  font-size:1.25rem;
+  box-sizing:border-box;
+}
+.contact-textarea{
+  min-height:240px;
+  resize:vertical;
+}
+.contact-row{
+  display:flex;
+  align-items:center;
+  gap:1rem;
+  margin-top:1.5rem;
+}
+.contact-btn{
+  background:#0d1b7e;
+  color:#fff;
+  border:0;
+  padding:1rem 2.5rem;
+  font-weight:800;
+  letter-spacing:.12em;
+  border-radius:4px;
+  cursor:pointer;
+  text-transform:uppercase;
+}
+.contact-note{
+  font-size:.95rem;
+}
+</style>
+
+<div class="contact-wrap">
+  <form action="https://formspree.io/f/mqeqqkkn" method="POST">
+    <label class="contact-label">Full Name</label>
+    <input class="contact-input" name="name" type="text" placeholder="First and Last" required>
+
+    <label class="contact-label">Email address</label>
+    <input class="contact-input" name="email" type="email" placeholder="your@email.here" required>
+
+    <label class="contact-label">Message</label>
+    <textarea class="contact-textarea" name="message" placeholder="Hello hello hello!" required></textarea>
+
+    <input type="hidden" name="_subject" value="New message from academicpages contact form">
+    <input type="text" name="_gotcha" style="display:none">
+
+    <div class="contact-row">
+      <button class="contact-btn" type="submit">Send Message</button>
+      <div class="contact-note">
+        Powered by <a href="https://formspree.io" target="_blank">Formspree</a>
+      </div>
+    </div>
+  </form>
+</div>
