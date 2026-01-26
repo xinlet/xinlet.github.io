@@ -12,7 +12,7 @@ redirect_from:
 Current Position
 ======
 
-I am currently a principal biostatistician at Novartis. 
+I am currently a Principal Biostatistician at Novartis. 
 
 I completed my PhD at University of Bath, where my research focused on sparse statistical models for high-dimensional data.
 
