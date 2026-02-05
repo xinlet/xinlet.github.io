@@ -7,45 +7,37 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* 2021-2025 &nbsp; Ph.D. in Statistics, University of Bath, Bath, UK
-  * Supervisors: [Dr. Sandipan Roy](https://sites.google.com/view/sandipanroy) and [Professor Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
-  * Thesis topic: Sparse Statistical Models for High-Dimensional Data
-* 2019-2021 &nbsp; M.S. in Statistics, George Washington University, Washington D.C., USA
-* 2015-2019 &nbsp; B.S. in Mathematics, University of British Columbia, Vancouver, Canada
-  
 Work Experience
 ======
-* 2026-Present &nbsp; Principal Biostatistician, [Novartis](https://www.novartis.com/), London, UK
-* 2024 &nbsp; Internship Research Scientist, [CameraForensics](https://www.cameraforensics.com/), Bristol, UK
-  * Analysing Camera Sensor Pattern & Source Camera Identification
-* 2023-2025 &nbsp; Graduate Teaching Assistant, [University of Bath](https://www.bath.ac.uk/), Bath, UK
-* 2021 &nbsp; Teaching Assistant, [George Washington University](https://www.gwu.edu/), Washington D.C., USA
+
+| Year            |   Position                    |  Institution                         |  Location |       
+|---------------  |-----------------------        |-------------                         |-----------| 
+| 2026 – Present  | Principal Biostatistician     |[Novartis](https://www.novartis.com/) | London, UK|
+| 2024            | Internship Research Scientist |[CameraForensics](https://www.cameraforensics.com/)| Bristol, UK|
+| 2023 – 2025     | Graduate Teaching Assistant   |[University of Bath](https://www.bath.ac.uk/)| Bath, UK|
+| 2021            | Teaching Assistant |[George Washington University](https://www.gwu.edu/)| Washington D.C., USA|
+
+Education
+======
+
+| Year       |   Degree              |  Institution                   |  Location |       
+|------------|-----------------------|-------------                   |-----------| 
+| 2021-2025  |  Ph.D. in Statistics  | University of Bath             | Bath, UK  | 
+| 2019-2021  |  M.S. in Statistics   | George Washington University   | Washington D.C., USA|
+| 2015-2019  |  B.S. in Mathematics  | University of British Columbia |  Vancouver, Canada|
+
+
+
 
 Tutoring
 ======
-* 2025 &nbsp; Royal Institution Masterclass Supervisor, University of Bath, UK
-* 2025 &nbsp; Introduction to Data Science, University of Bath, UK
-* 2024 &nbsp; Data Analysis for Business, University of Bath, UK
-* 2023 &nbsp; Probability and Statistics, University of Bath, UK
-* 2020 &nbsp; Sample Survey, George Washington University, USA
 
-Skills
-======
-* Programming Languages:
-  * R, Python, SAS
-* Developer Tools/Platforms:
-  * RStudio, Jupyter, Overleaf/Latex, Github
-* Languages:
-  * English, Chinese (Mandarin)
+| Year       |   Courses             |  Institution                   |  Location |       
+|------------|-----------------------|-------------                   |-----------| 
+| 2025       |  Royal Institution Masterclass Supervisor  | University of Bath             | Bath, UK  | 
+| 2025       |  Introduction to Data Science              | University of Bath             | Bath, UK  | 
+| 2024       |  Data Analysis for Business                | University of Bath             | Bath, UK  | 
+| 2023       |  Probability and Statistics                | University of Bath             | Bath, UK  | 
+| 2020       |  Sample Survey                             | George Washington University   | Washington D.C., USA  | 
 
-Awards
-======
-* Outstanding International Student Award, University of British Columbia, Canada
 
-Members
-======
-* Institute of Mathematical Statistics (IMS)
-* Golden Key International Honour Society, George Washington University
-  
