@@ -27,12 +27,6 @@ Research Interest
 * Biostatistics
 * Applications, including public health, neuroscience, and image processing
 
-Interest
-======
-* Photography
-* Fitness training
-* Music
-
 
 
 
