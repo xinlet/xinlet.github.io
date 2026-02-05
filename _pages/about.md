@@ -20,6 +20,8 @@ I was under the supervision of [Dr. Sandipan Roy](https://sites.google.com/view/
 
 I am open to a wide range of academic collaborations and would be glad to explore potential opportunities.
 
+Please note that this is my personal page. All content here is my responsibility and is not affiliated with or endorsed by my employer.
+
 Research Interest
 ======
 * High-dimensional statistics
