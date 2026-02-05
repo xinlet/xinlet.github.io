@@ -24,7 +24,6 @@ Please note that this is my personal page. All content here is my responsibility
 
 Research Interest
 ======
-* High-dimensional statistics
 * Applied statistics
 * Biostatistics
 * Applications, including public health, neuroscience, and image processing
