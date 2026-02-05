@@ -25,7 +25,7 @@ Tutoring
 ======
 * 2025 &nbsp; Royal Institution Masterclass Supervisor, University of Bath, UK
 * 2025 &nbsp; Introduction to Data Science, University of Bath, UK
-* 2025 &nbsp; Data Analysis for Business, University of Bath, UK
-* 2025 &nbsp; Probability and Statistics, University of Bath, UK
-* 2025 &nbsp; Sample Survey, George Washington University, USA
+* 2024 &nbsp; Data Analysis for Business, University of Bath, UK
+* 2023 &nbsp; Probability and Statistics, University of Bath, UK
+* 2020 &nbsp; Sample Survey, George Washington University, USA
 
