@@ -16,7 +16,7 @@ Academia
 * [Alex Gibberd](https://sites.google.com/view/gibberd/)
 * [Luke Mosley](https://www.researchgate.net/profile/Luke_Mosley2)
 * [Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
-* [Sandipan Roy](https://sites.google.com/view/sandipanroy)
+* [Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/)
 * [Kai Zheng](https://www.lancaster.ac.uk/lira/people/kai-zheng)
 
 
