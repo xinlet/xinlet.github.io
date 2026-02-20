@@ -17,7 +17,7 @@ Academia
 * [Luke Mosley](https://www.researchgate.net/profile/Luke_Mosley2)
 * [Matt Nunes](https://people.bath.ac.uk/man54/homepage.html)
 * [Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/)
-* [Kai Zheng](https://www.lancaster.ac.uk/lira/people/kai-zheng)
+* [Kai Zheng](https://www.lancaster.ac.uk/data-science-and-artificial-intelligence/about-us/members/kai-zheng)
 
 
 Industry
