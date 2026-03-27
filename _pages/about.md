@@ -9,8 +9,7 @@ redirect_from:
 
 (You can pronounce my name as "Shin-Lee")
 
-Current Position
-======
+## Current Position
 
 I am currently a Principal Biostatistician at Novartis. 
 
@@ -20,8 +19,8 @@ I am open to a wide range of academic collaborations and would be glad to explor
 
 Please note that this is my personal page. All content here is my responsibility and is not affiliated with or endorsed by my employer.
 
-Research Interest
-======
+## Research Interest
+
 * Applied statistics
 * Biostatistics
 * Applications, including public health, neuroscience, and image processing
