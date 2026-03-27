@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Academia
-====
+## Academia
 (alphabetical order)
 * [Tak-Shing Chan](https://sites.google.com/site/takshingchan/home)
 * [Emiko Dupont](https://researchportal.bath.ac.uk/en/persons/emiko-dupont)
@@ -20,8 +19,7 @@ Academia
 * [Kai Zheng](https://www.lancaster.ac.uk/data-science-and-artificial-intelligence/about-us/members/kai-zheng)
 
 
-Industry
-====
+## Industry
 * [Bezero Carbon](https://bezerocarbon.com/)
 * [CameraForensics](https://www.cameraforensics.com/)
 * [Syngenta](https://www.syngenta.co.uk/)
