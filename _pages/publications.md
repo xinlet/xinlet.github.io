@@ -15,7 +15,7 @@ author_profile: true
   
 ## Journal/Conference Papers
 
-* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2026). Large multi-response linear regression estimation based on low-rank pre-smoothing. *Statistical Analysis and Data Mining*. [[ArXiv]](https://arxiv.org/abs/2411.18334)
+* Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2026). Large multi-response linear regression estimation based on low-rank pre-smoothing. *Statistical Analysis and Data Mining*. [[ArXiv]](https://arxiv.org/abs/2411.18334) ([Link])(https://onlinelibrary.wiley.com/doi/10.1002/sam.70072)
   
 * Tian, X., He, J., & Shi, Y. (2020). Statistical dependence test with Hilbert-Schmidt independence criterion. *Journal of Physics: Conference Series*. [[Link]](https://iopscience.iop.org/article/10.1088/1742-6596/1601/3/032008/meta)
 
