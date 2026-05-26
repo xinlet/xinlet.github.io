@@ -49,7 +49,7 @@ author_profile: true
 ----
 
 * *Presented by:* Sandipan Roy; *Co-authors:* Xinle Tian, Alex Gibberd, Matt Nunes
-* *Presented at:* School of Mathematical Sciences, Queen Mary University of London, UK 2024. [[Link]](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
+* *Presented at:* School of Mathematical Sciences, Queen Mary University of London, UK, 2024. [[Link]](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
 
   
 ## Exploring dynamic factors of fMRI activity in the presence of sparse loadings
