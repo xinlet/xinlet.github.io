@@ -19,4 +19,10 @@ author_profile: true
   
 * Tian, X., He, J., & Shi, Y. (2020). Statistical dependence test with Hilbert-Schmidt independence criterion. *Journal of Physics: Conference Series*. [[Link]](https://iopscience.iop.org/article/10.1088/1742-6596/1601/3/032008/meta)
 
+## PhD Thesis
+
+* Tian, X. (2026). Sparse statistical models for high-dimensional data. Ph.D. Thesis, University of Bath. [[Link]](https://purehost.bath.ac.uk/ws/portalfiles/portal/383833799/Thesis_Xinle_Final.pdf)
+
+
+
 
