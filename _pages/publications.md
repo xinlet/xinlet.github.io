@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints/Working Papers
 
-* Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2026). Prediction of fMRI activity using vector autoregressive models: a comparison of sparse and low-rank approaches. *BioRxiv Preprint*.[[BioRxiv]](https://www.biorxiv.org/content/10.64898/2026.06.11.731556v1.abstract)
+* Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2026). Prediction of fMRI activity using vector autoregressive models: a comparison of sparse and low-rank approaches. *BioRxiv Preprint*. [[BioRxiv]](https://www.biorxiv.org/content/10.64898/2026.06.11.731556v1.abstract)
 
 * Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). Using wavelet domain fingerprints to improve source camera identification. *ArXiv Preprint*. [[ArXiv]](https://arxiv.org/abs/2507.01712)
   
