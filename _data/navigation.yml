@@ -14,8 +14,8 @@ main:
   - title: "Conferences & Talks"
     url: /talks/   
     
-  - title: "Collaborators"
-    url: /collaborator/
+  #- title: "Collaborators"
+  #  url: /collaborator/
     
   #- title: "Map"
   #  url: /map/
