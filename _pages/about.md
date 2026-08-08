@@ -17,8 +17,6 @@ I completed my PhD at University of Bath, where my research focused on sparse st
 
 I am open to a wide range of academic collaborations and would be glad to explore potential opportunities.
 
-Please note that this is my personal page. All content here is my responsibility and is not affiliated with or endorsed by my employer.
-
 Research Interest
 ====
 * Applied statistics
