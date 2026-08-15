@@ -10,10 +10,10 @@ author_profile: true
 ## Preprints/Working Papers
 
 * Tian, X., Gibberd, A., Roy, S. & Nunes, M. (2026). Prediction of fMRI activity using vector autoregressive models: a comparison of sparse and low-rank approaches. *BioRxiv Preprint*. [[BioRxiv]](https://www.biorxiv.org/content/10.64898/2026.06.11.731556v1.abstract)
-
-* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2025). Using wavelet domain fingerprints to improve source camera identification. *ArXiv Preprint*. [[ArXiv]](https://arxiv.org/abs/2507.01712)
   
 ## Journal/Conference Papers
+* Tian, X., Nunes, M., Dupont, E., Downing, S., Lichtenstein, F. & Burns, M. (2026). Using wavelet domain fingerprints to improve source camera identification. *Forensic Science International: Digital Investigation*. [[ArXiv]](https://arxiv.org/abs/2507.01712)
+
 * Tian, X., Ma, L., Zou, L., & Yang, H. (2026). Which metric matters? Similarity evaluation for wavelet-domain camera fingerprints. In *IEEE 12th International Symposium on System Security, Safety, and Reliability (ISSSR)*.
 
 * Tian, X., Gibberd, A., Nunes, M., & Roy, S. (2026). Large multi-response linear regression estimation based on low-rank pre-smoothing. *Statistical Analysis and Data Mining*. [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/sam.70072) [[ArXiv]](https://arxiv.org/abs/2411.18334) 
