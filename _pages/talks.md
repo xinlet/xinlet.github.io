@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+## On the design of wavelet domain filters for robust camera source identification
+* *Presented by:* Xinle Tian; *Co-authors:* Lawrence Ma, Lin Zou, Hongji Yang
+* *Presented at:* International Conference on Software Quality, Reliability and Security (QRS), Italy, 2026 [[Link]](https://qrs26.techconf.org/)
 
 ## Pre-smoothing as a tool for predicting fMRI ROI data
 * *Presented by:* Alex Gibberd; *Co-authors:* Xinle Tian, Sandipan Roy, Matt Nunes
@@ -49,7 +52,7 @@ author_profile: true
 ----
 
 * *Presented by:* Sandipan Roy; *Co-authors:* Xinle Tian, Alex Gibberd, Matt Nunes
-* *Presented at:* School of Mathematical Sciences, Queen Mary University of London, UK, 2024. [[Link]](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
+* *Presented at:* School of Mathematical Sciences, Queen Mary University of London, UK, 2024 [[Link]](https://www.qmul.ac.uk/maths/research/seminars/statistics-and-data-science-seminar/)
 
   
 ## Exploring dynamic factors of fMRI activity in the presence of sparse loadings
