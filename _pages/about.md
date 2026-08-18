@@ -21,7 +21,8 @@ Research Interest
 ====
 * Applied statistics
 * Biostatistics
-* Applications, including public health, neuroscience, and image processing
+* Image processing and digital forensics
+* Applications, including public health, neuroscience
 
 
 
