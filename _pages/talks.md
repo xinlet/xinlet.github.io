@@ -32,7 +32,7 @@ author_profile: true
 ----
 
 * *Presented by:* Sandipan Roy; *Co-authors:* Xinle Tian, Alex Gibberd, Matt Nunes
-* *Presented at:* CFE-CMStatistics, UK, 2024 [[Link]](https://www.cmstatistics.org/CFECMStatistics2024/index.php)
+* *Presented at:* International Joint Conference CFE-CMStatistics, UK, 2024 [[Link]](https://www.cmstatistics.org/CFECMStatistics2024/index.php)
   
 ----
 
@@ -57,5 +57,5 @@ author_profile: true
   
 ## Exploring dynamic factors of fMRI activity in the presence of sparse loadings
 * *Presented by:* Alex Gibberd; *Co-authors:* Tak-Shing Chan, Xinle Tian, Kai Zheng
-* *Presented at:* CMStatistics, Germany, 2023 [[Link]](https://www.cmstatistics.org/CMStatistics2023/programme.php)
+* *Presented at:* International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics), Germany, 2023 [[Link]](https://www.cmstatistics.org/CMStatistics2023/programme.php)
 
