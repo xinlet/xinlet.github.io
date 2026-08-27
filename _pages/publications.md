@@ -14,7 +14,7 @@ author_profile: true
 ## Journal/Conference Papers
 *  **Tian, X.**, Nunes, M., Dupont, E., Downing, S., Lichtenstein, F., & Burns, M. (2026). Using wavelet domain fingerprints to improve source camera identification. *Forensic Science International: Digital Investigation*. [[Link]](https://doi.org/10.1016/j.fsidi.2026.302196) [[ArXiv]](https://arxiv.org/abs/2507.01712)
 
-*  **Tian, X.**, Ma, L., Zou, L., & Yang, H.(2026). Which metric matters? Similarity evaluation for wavelet-domain camera fingerprints. In *IEEE 12th International Symposium on System Security, Safety, and Reliability (ISSSR)*.
+*  **Tian, X.**, Ma, L., Zou, L., & Yang, H. (2026). Which metric matters? Similarity evaluation for wavelet-domain camera fingerprints. In *IEEE 12th International Symposium on System Security, Safety, and Reliability (ISSSR)*.
 
 *  **Tian, X.**, Gibberd, A., Nunes, M., & Roy, S. (2026). Large multi-response linear regression estimation based on low-rank pre-smoothing. *Statistical Analysis and Data Mining*. [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/sam.70072) [[ArXiv]](https://arxiv.org/abs/2411.18334)
 
