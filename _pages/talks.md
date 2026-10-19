@@ -37,7 +37,7 @@ author_profile: true
 ----
 
 * *Presented by:* Xinle Tian; *Co-authors:* Alex Gibberd, Matt Nunes, Sandipan Roy
-* *Presented at:* SAMBa Summer Conference, University of Bath, UK, 2024 [[Link]](https://people.bath.ac.uk/cb2605/SAMBaConf.html)
+* *Presented at:* SAMBa Summer Conference, University of Bath, UK, 2024 [[Link]](https://samba.ac.uk/samba-conference-9-10-july-2024/)
   
 ----
 
@@ -47,7 +47,7 @@ author_profile: true
 ----
 
 * *Presented by:* Xinle Tian; *Co-authors:* Alex Gibberd, Matt Nunes, Sandipan Roy
-* *Presented at:* Statistics Seminar, University of Bath, UK, 2024 [[Link]](https://people.bath.ac.uk/cr777/seminar.html)
+* *Presented at:* Statistics Seminar, University of Bath, UK, 2024 [[Link]](https://cr777-bath.github.io/my-website/seminar.html)
   
 ----
 
